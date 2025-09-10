@@ -20,6 +20,3 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
-* ...
-練習用コミット: Gitの流れを確認しました
